@@ -1,7 +1,12 @@
 {
 	"author": "ozgur",
 	"description": "it is needed to pass the tutorial",
-	"keywords": ["yeter", "artik", "anladim", "freecodecamp"],
+	"keywords": [
+		"yeter",
+		"artik",
+		"anladim",
+		"freecodecamp"
+	],
 	"license": "MIT",
 	"version": "1.0.0",
 	"name": "fcc-learn-npm-package-json",
