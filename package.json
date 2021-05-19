@@ -1,5 +1,6 @@
 {
 	"author": "ozgur",
+	"description": "it is needed to pass the tutorial",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
